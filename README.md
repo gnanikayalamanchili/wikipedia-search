@@ -9,12 +9,16 @@ A robust full-text search engine for Wikipedia articles built with Laravel, feat
 - MySQL 5.7+
 - Node.js (for frontend assets)
 
+
+## Software for devlopment or to run this app.
+download laravel Herd from https://herd.laravel.com/
+
 ## Installation Steps
 
 
 ### 1. Clone the Repository or Unzip
 ```bash
-git clone https://github.com/yourusername/wikipedia-search.git
+git clone https://github.com/gnanikayalamanchili/wikipedia-search.git
 cd wikipedia-search
 ```
 
@@ -120,4 +124,4 @@ Customize search parameters in `config/scout.php`:
 - Regenerate search index if needed
 
 ## Contact
-Your Name - your.email@example.com
+Gnanika Yalamanchili - s1367464@monmouth.edu
